@@ -30,7 +30,7 @@ Utilize indentação de dois espaços
       <a class="link">
 
 <!-- Ruim-->
-<nav class="navbar">
+<section class="container">
       <ul class="listagem">
             <li class="item">
                   <a class="link">
