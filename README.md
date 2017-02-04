@@ -39,12 +39,12 @@ Utilize identação de dois espaços
 ### Ordene seus atributos
 Atributos HTML devem vir nesta ordem específica para facilitar a leitura do código.
 
-class
-id, name
-data-*
-src, for, type, href
-title, alt
-aria-*, role
+- class
+- id, name
+- data-*
+- src, for, type, href
+- title, alt
+- aria-*, role
 
 
 ```html
