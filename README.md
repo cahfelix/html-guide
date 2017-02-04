@@ -8,7 +8,7 @@ A ideia desse repositório é ser um local para que eu e outros desenvolvedores 
 
 
 
-
+### Fique de olho na aspas de seu código
 Sempre use aspas duplas para suas classes e ids.
 
 ```html
@@ -19,7 +19,8 @@ Sempre use aspas duplas para suas classes e ids.
 <section class='container'>
 ```
 
-Utilize identação de dois espaços	
+### Fique de olho na indentação
+Utilize indentação de dois espaços	
 
 ```html
 <!-- Bom -->
@@ -59,7 +60,7 @@ Atributos HTML devem vir nesta ordem específica para facilitar a leitura do có
 ```
 
 
-
+### Não especifique o type
 Não há necessidade de especificar um ```type``` quando incluimos arquivos CSS e JavaScript como ```text/css``` e ```text/javascript```
 
 ```html
