@@ -73,5 +73,5 @@ Não há necessidade de especificar um ```type``` quando incluimos arquivos CSS 
 <script type="text/JavaScript" src="scripts.min.js"></script>
 ```
 
-Dica: insira todos os arquivos JavaScripts antes de fechar o ```<body>```final do documento para melhorar a performance de sua página, já os CSS insira no head do seu site
+Dica: insira todos os arquivos JavaScripts antes de fechar o ```<body>``` final do documento para melhorar a performance de sua página, já os CSS insira no head do seu site
 
