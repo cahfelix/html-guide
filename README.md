@@ -1,6 +1,6 @@
 # HTML Styleguide 
 
-## Boas prática HTML5
+## Boas práticas no HTML5
 
 É muito importante tornar o HTML mais fácil de entender e  se manter.
 
